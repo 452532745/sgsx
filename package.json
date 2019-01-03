@@ -1,8 +1,8 @@
 {
-  "name": "vue-fruit-shop",
+  "name": "vue-shop",
   "version": "1.0.0",
-  "description": "vue-fruit-shop",
-  "author": "dabao",
+  "description": "vue-shop",
+  "author": "452532745@qq.com",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
